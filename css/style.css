@@ -626,7 +626,7 @@ a {
 
 @media screen and (max-width: 600px), screen and (max-width: 480px) {
   .header {
-    padding: 1rem 2.5rem;
+    padding: 1rem 1rem;
   }
 
   .hero__box {
@@ -658,7 +658,7 @@ a {
   }
 
   .about__main {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
 
   .about__wrapper {
@@ -678,7 +678,7 @@ a {
 
 @media screen and (max-width: 768px), screen and (max-width: 480px){
   .header {
-    padding: 1rem 3rem;
+    padding: 1rem 1rem;
   }
 
   .header__text {
@@ -695,7 +695,7 @@ a {
     transition: all 0.4s ease-in-out;
   }
   .header__logo {
-    width: 40%;
+    width: 100%;
   }
 
   .hero {
@@ -737,7 +737,7 @@ a {
   }
 
   .about__wrapper {
-    padding: 1rem 3rem;
+    padding: 1rem 1rem;
   }
 
   .about__text {
@@ -748,7 +748,7 @@ a {
 
   .U__primary {
     width: 100%;
-    padding: 0rem 3rem;
+    padding: 0rem 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1023,7 +1023,7 @@ a {
 
   .contact__input {
     width: 100%;
-    height: 10vh;
+    height: 7vh;
     background-color: transparent;
     padding: 0.8rem;
     color: #fff;
